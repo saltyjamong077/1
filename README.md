@@ -334,10 +334,8 @@ footer .f-sub{font-family:var(--mono);font-size:10.5px;letter-spacing:.3em;color
   <div class="nav-in">
     <span class="nav-mark">Erhardt</span>
     <a href="#world">세계관</a>
-    <a href="#palace">황궁</a>
-    <a href="#temple">대신전</a>
-    <a href="#leonid">레오니드</a>
-    <a href="#ledger">그가 보낸 것들</a>
+    <a href="#palace">이세린</a>
+    <a href="#temple">그녀의 과거</a>
   </div>
 </nav>
 
@@ -553,82 +551,6 @@ footer .f-sub{font-family:var(--mono);font-size:10.5px;letter-spacing:.3em;color
       "당신은 아무것도 안 해도 사랑받더군.<br>나는 스물넷을 다 갈아 넣었는데."
       <small>— 와인 두 병째, 대신관 집무실에서</small>
     </blockquote>
-  </div>
-</section>
-
-<div class="rule"></div>
-
-<!-- 전표 -->
-<section id="ledger" class="ledger">
-  <div class="wrap">
-    <div class="rv">
-      <p class="eyebrow">Records</p>
-      <h2>그가 당신에게 보낸 것들</h2>
-      <p class="lead">대신전 접수처는 제1황자궁에서 오는 물품을 따로 분류한다. 불쾌한데 묘하게 정성이 들어가 있고, 유치한데 반송할 명분이 없다. 아래는 최근 기록의 일부다.</p>
-    </div>
-
-    <div class="receipt rv">
-      <div class="receipt-head">
-        <div>
-          <div class="t">제1황자궁 발신 물품 · 접수 대장</div>
-          <div class="s">RECIPIENT · 대신전 대신관</div>
-        </div>
-        <div class="from">FROM<br>LEONID ERHARDT</div>
-      </div>
-
-      <div class="item">
-        <div class="date">923 · 봄</div>
-        <div class="what">생일 축하 케이크 1개
-          <small>중앙에 단검이 수직으로 꽂힌 채 도착. 칼자루까지 정확히 정중앙이었다. 동봉 서신 없음.</small>
-        </div>
-        <div class="amt">반송 불가</div>
-      </div>
-
-      <div class="item">
-        <div class="date">923 · 여름</div>
-        <div class="what">전승 기념 연회 · 대신관석 다과 배치
-          <small>당신이 싫어하는 간식으로만 채워졌다. 배치표는 세 번 수정된 흔적이 있었다.</small>
-        </div>
-        <div class="amt">수정 3회</div>
-      </div>
-
-      <div class="item">
-        <div class="date">923 · 여름</div>
-        <div class="what">신전 기부금
-          <small>명목: 「대신관 성격 개선 사업비」. 회계 신관이 명목란을 두 번 읽고 당신을 쳐다봤다.</small>
-        </div>
-        <div class="amt">5,000 GOLD</div>
-      </div>
-
-      <div class="item">
-        <div class="date">923 · 여름</div>
-        <div class="what">신전 기부금
-          <small>명목: 「대신관 잔소리 감속 기금」. 액수는 앞의 것보다 컸다.</small>
-        </div>
-        <div class="amt">8,000 GOLD</div>
-      </div>
-
-      <div class="item">
-        <div class="date">923 · 가을</div>
-        <div class="what">남부 원정 기념품 · 석상 1점
-          <small>기이할 정도로 괴상하게 생겼다. 눈이 몇 개인지도 헷갈리는 형상인데, 무겁고 크고 버릴 수 없게 값이 나간다.</small>
-        </div>
-        <div class="amt">보관 중</div>
-      </div>
-
-      <div class="item">
-        <div class="date">923 · 가을</div>
-        <div class="what">가면 1점
-          <small>흉하게 일그러진, 보고 있으면 기분이 나빠지는 괴상한 물건. "당신을 닮았길래." 어디가 닮았는지는 끝내 설명하지 않았다.</small>
-        </div>
-        <div class="amt">진열 거부</div>
-      </div>
-
-      <div class="receipt-foot">
-        <p><b>비고 —</b> 기부금은 명목이 우스울 뿐, 액수는 우습지 않다. 그 돈으로 지난겨울 북부 신전 두 곳의 고아원이 문을 닫지 않았다. 그는 그 사실을 단 한 번도 언급한 적이 없다.</p>
-        <div class="stamp">접수 · 대신관</div>
-      </div>
-    </div>
   </div>
 </section>
 
